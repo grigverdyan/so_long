@@ -59,6 +59,6 @@ For detailed information, refer to the [**subject of this project**](en.subject.
 # 🌄 Screenshots
 
 ## Mandelbrot set
-![Sponge Bob](README_files/screenshots/scrn.jpg)
+![Sponge Bob](README_files/screenshots/scrn.png)
 
 * **
